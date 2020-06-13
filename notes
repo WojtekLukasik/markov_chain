@@ -1,0 +1,12 @@
+Łańcuchy Markowa:
+Na zajęciach spotkaliśmy się z różnymi przykładami łańcuchów Markowa (generowanie losowego tekstu, gry). Za
+pomocą łańcuchów Markowa można modelować wiele innych procesów, takich jak:
+• algorytm PageRank,
+• rozpoznawanie mowy,
+• modele ewolucji DNA,
+• modele reakcji chemicznych,
+• modelowanie procesów zmian cen akcji na giełdzie.
+Zaproponuj własny przykład łańcucha Markowa o co najmniej 6 stanach. Za pomocą symulacji komputerowych
+wyznacz rozkład stacjonarny dla tego łańcucha. Jeżeli łańcuch posiada więcej niż jeden taki rozkład, zaproponuj
+metodę, która będzie wyznaczała różne rozkłady stacjonarne (oczywiście nie wszystkie, bo jak wiemy może ich
+być nieskończenie wiele).
